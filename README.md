@@ -1,2 +1,2 @@
-# Javascript_studies
+# Javascript Studies
 Repository with Javascript templates for study
